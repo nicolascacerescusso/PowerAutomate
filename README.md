@@ -80,14 +80,14 @@ Y por último, tenemos los flujos de proceso empresarial, que son una unión de 
 ya directamente cuando accedemos a Power Automatic, vemos que en la pestaña de inicio nos sugiere varias plantillas como éstas que tenemos aquí, por ejemplo.
 Nos nos da un buscador donde podemos buscar una plantilla por aplicación, tarea o sector.
 
-[Plantillas]: (Plantillas.png)
+![Plantillas]: (Plantillas.png)
 
 ## Conectores
 
- todas las aplicaciones que se integran con herramientas de Microsoft 365 y con power automate.
+todas las aplicaciones que se integran con herramientas de Microsoft 365 y con power automate.
 Como podemos ver, aquí tenemos conectores populares y al inicio que son los que más se usan en los
 procesos automáticos que hacen los usuarios.
 
-[Conectores]:(Conectores1.png)
+![Conectores]:(Conectores1.png)
 
 
