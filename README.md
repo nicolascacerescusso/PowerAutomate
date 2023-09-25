@@ -66,3 +66,11 @@ queramos día, hora, segundo minuto y la periodicidad y la periodicidad que noso
 tenemos los flujos de escritorio que, a diferencia de los flujos de nube, son los flujos que se ejecutan en la máquina de cada uno, es decir, en mi ordenador usual de trabajo diario puede ejecutar una serie de flujos con aplicaciones a las que quizá no puedo acceder a través de navegador, por ejemplo. Pues eso serían los flujos de escritorio.
 Los flujos de escritorio se pueden conectar perfectamente con los flujos de nube, como ya hemos comentado
 anteriormente, y será muy fácil integrarlos entre ellos.
+
+### Flujos de proceso empresarial
+
+Y por último, tenemos los flujos de proceso empresarial, que son una unión de los flujos de nube y los flujos de escritorio.Un flujo de proceso empresarial es una fusión de varios flujos.
+
+## Instalacion de Power Automate
+
+[Pagina de descarga]: (https://powerautomate.microsoft.com/es-es/)
