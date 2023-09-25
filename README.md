@@ -20,10 +20,11 @@ Tecnologia que trata de automatizar tareas repetitivas del día a día, tareas q
 
 Podemos utilizar Power Automate y Power Automate Desktop
 
-## Flujos
+## Flujo (Flow)
 
+Es el proceso automatico que podemos llegar a crear con la herramienta
 
-
+![](Flow1.jpg)
 
 
 
