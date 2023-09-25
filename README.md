@@ -91,3 +91,13 @@ procesos automáticos que hacen los usuarios.
 ![Conectores]:(Conectores1.png)
 
 
+## Entornos
+Veremos que cuando iniciemos sesión en nuestro power automate y creemos un flujo por primera vez, todos los flujos y los procesos se van a guardar en el entorno predeterminado.
+Tenemos el nombre de nuestra cuenta y tenemos un entorno predeterminado entre paréntesis.
+Cualquier cuenta que se creen por primera vez va a tener el entorno predeterminado. Eso significa que todos los flujos que se creen aquí en el apartado mis flujos los va a ver solo la persona que es miembro de esa cuenta, o por lo tanto, la persona que ha creado la cuenta al usuario que lo ha creado, tiene ese entorno predeterminado para él solo, entonces ahí todos los flujos que haya creado los va a ver sólo él, a no ser que los comparta con personas externas o personas dentro de la organización.
+Podemos crear más entornos para que sean entornos grupales, es decir, podemos crear por ejemplo un entorno que sea departamento de finanzas y a ese entorno agregarle todos los usuarios del directorio activo que puedan tener acceso a ese departamento de finanzas y por tanto, que tengan ahí todos sus flujos agrupados y puedan ver exactamente como van los procesos automáticos del departamento.
+
+Para crear nuevos entornos debemos dirigirnos a: 
+
+[Creacion de Entornos]: (https://admin.powerplatform.microsoft.com/environments/)
+
