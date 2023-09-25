@@ -12,4 +12,9 @@ Debemos ver a Power Automate como esa pieza que permite interconectar distitnas 
 
 Existen multiples conectores internos y externos que permiten integrarnos con cualquier otra aplicacion sea o no del entorno Microsoft.
 
+## Conectores Internos
+
 ![Conectores](Conectores.png)
+
+
+
