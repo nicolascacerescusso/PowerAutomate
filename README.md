@@ -14,5 +14,18 @@ Existen multiples conectores internos y externos que permiten integrarnos con cu
 
 ![Conectores](Conectores.png)
 
+## Tecnologia RPA (Robotic Process Automation)
+
+Tecnologia que trata de automatizar tareas repetitivas del día a día, tareas que hacemos de forma manual, extraer informacion de ciertos documentos, instroducir datos en una base de datos, gestionar archivos, etc.
+
+Podemos utilizar Power Automate y Power Automate Desktop
+
+## Flujos
+
+
+
+
+
+
 
 
