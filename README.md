@@ -24,7 +24,8 @@ Podemos utilizar Power Automate y Power Automate Desktop
 
 Es el proceso automatico que podemos llegar a crear con la herramienta
 
-![](Flow1.jpg)
+![](Flow1.jpg "Flow")
+
 
 
 
