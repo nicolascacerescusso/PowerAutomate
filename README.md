@@ -131,3 +131,5 @@ Flujo que se desencadena de forma manual segun es necesario, es decir, en el mom
 ### Flujo de nube PROGRAMADO
 
 ![](../PowerAutomate/Imagenes/Creacion%20flujo%20de%20nube%20programado.png)
+
+![](../PowerAutomate/Imagenes/Nombre%20flujo%20de%20nube%20programado.png)
