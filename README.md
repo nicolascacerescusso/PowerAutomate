@@ -136,3 +136,13 @@ Flujo que se desencadena de forma manual segun es necesario, es decir, en el mom
 ![](../PowerAutomate/Imagenes/Nombre%20flujo%20de%20nube%20programado.png)
 
 ![](../PowerAutomate/Imagenes/resultado%20flujo%20de%20nube%20programado.png)
+
+
+### Conexiones
+
+las conexiones en cada bloque de un proceso automatico que conecta una aplicacion sea interna o externa de Microsoft.
+Para poder conectarnos a algunas de estas aplicaciones si o si necesitameros tener cuenta con usuario y contraseña para poder realziar el proceso.
+
+
+### Exportar Flujos
+
