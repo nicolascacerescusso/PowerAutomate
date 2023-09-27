@@ -13,7 +13,7 @@ Debemos ver a Power Automate como esa pieza que permite interconectar distitnas 
 
 Existen multiples conectores internos y externos que permiten integrarnos con cualquier otra aplicacion sea o no del entorno Microsoft.
 
-![Conectores](Conectores.png)
+![Conectores](D:\Cursos\Power Automate\PowerAutomate\Imagenes/Conectores.png)
 
 ## Tecnologia RPA (Robotic Process Automation)
 
@@ -25,7 +25,7 @@ Podemos utilizar Power Automate y Power Automate Desktop
 
 Es el proceso automatico que podemos llegar a crear con la herramienta
 
-![](Flow1.jpg "Flow")
+![Imagen Flow](Flow.jpg)
 
 La aplicacion PA Cloud nos permitira conectar a cualquier aplicacion que sea publica y que accedamos a través de internet y por lo tanto los flujos que se ejecutaran seran "Flujos de Nube".
 La version PA Desktop nos permitita automatizar procesos en nuesrta propia maquina. 
@@ -81,7 +81,7 @@ Y por último, tenemos los flujos de proceso empresarial, que son una unión de 
 ya directamente cuando accedemos a Power Automatic, vemos que en la pestaña de inicio nos sugiere varias plantillas como éstas que tenemos aquí, por ejemplo.
 Nos nos da un buscador donde podemos buscar una plantilla por aplicación, tarea o sector.
 
-![Plantillas](Plantillas.png)
+![Plantillas](D:/../Imagenes/Plantillas.png)
 
 ## Conectores
 
@@ -89,7 +89,7 @@ todas las aplicaciones que se integran con herramientas de Microsoft 365 y con p
 Como podemos ver, aquí tenemos conectores populares y al inicio que son los que más se usan en los
 procesos automáticos que hacen los usuarios.
 
-![Conectores](Conectores1.png)
+![Conectores](D:/../Imagenes/Conectores1.png)
 
 
 ## Entornos
