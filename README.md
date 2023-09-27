@@ -151,3 +151,11 @@ Para poder conectarnos a algunas de estas aplicaciones si o si necesitameros ten
 Esta funcion la utilizamos para exportar un flujo de un entorno a otro dentro de Power Automate.
 Se utiliza para enviar a un colabordor el mismo flujo para que lo ejecute en su entorno. Para esto tendra que actualizar los usuarios y las claves de las diferentes aplicaciones que forman parte del flujo.
 
+![](../PowerAutomate/Imagenes/Exportacion%20de%20flujos%202.png)
+
+### Importar Flujos
+
+![](../PowerAutomate/Imagenes/Importacion%20de%20flujos.png)
+
+![](../PowerAutomate/Imagenes/Importacion%20de%20flujos3.png)
+
