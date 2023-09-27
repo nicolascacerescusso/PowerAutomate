@@ -127,3 +127,4 @@ Flujo que se desencadena de forma manual segun es necesario, es decir, en el mom
 ![](../PowerAutomate/Imagenes/Nombre%20flujo%20de%20nube%20instantaneo.png)
 
 ![](../PowerAutomate/Imagenes/resultado%20flujo%20de%20nube%20instantaneo.png)
+
