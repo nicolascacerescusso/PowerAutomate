@@ -107,4 +107,13 @@ Para crear nuevos entornos debemos dirigirnos a:
 
 ## Creacion de flujos desde cero
 
+### Flujo de nuve AUTOMATIZADO
+
+![](../PowerAutomate/Imagenes/Creacion%20flujo%20de%20nube%20automatizado.png)
+
+![](../PowerAutomate/Imagenes/Nombre%20flujo%20de%20nube%20automatizado.png)
+
+Eligiremos un nombre para el flujo y el *desencadenador de flujo automatizado* es decir el evento en alguna aplicacion que desencadena los pasos programados del flujo.
+
+![](../PowerAutomate/Imagenes/resultado%20flujo%20de%20nube%20automatizado.png)
 
