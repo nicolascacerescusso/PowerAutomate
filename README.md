@@ -159,3 +159,6 @@ Se utiliza para enviar a un colabordor el mismo flujo para que lo ejecute en su 
 
 ![](../PowerAutomate/Imagenes/Importacion%20de%20flujos3.png)
 
+
+### Contenido Dinámico
+
