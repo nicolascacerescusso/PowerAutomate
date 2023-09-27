@@ -117,3 +117,13 @@ Eligiremos un nombre para el flujo y el *desencadenador de flujo automatizado* e
 
 ![](../PowerAutomate/Imagenes/resultado%20flujo%20de%20nube%20automatizado.png)
 
+
+### Flujo de nube INSTANTANEO
+
+Flujo que se desencadena de forma manual segun es necesario, es decir, en el momento del dia que a nosotros nos va mejor. Tareas repetitivas del día que se pueden hacer de manera automatica en el momento del dia que yo prefiera.
+
+![](../PowerAutomate/Imagenes/Creacion%20flujo%20de%20nube%20instantaneo.png)
+
+![](../PowerAutomate/Imagenes/Nombre%20flujo%20de%20nube%20instantaneo.png)
+
+![](../PowerAutomate/Imagenes/resultado%20flujo%20de%20nube%20instantaneo.png)
